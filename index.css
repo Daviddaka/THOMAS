@@ -1,0 +1,30 @@
+body{
+  background-color: gray;
+}
+button{
+  color: white;
+  background-color: lightgreen;
+  font-family: cursive;
+  font-size: 20px;
+}
+h4{
+  color: purple;
+  font-family: cursive;
+}
+img{
+ height: 300px;
+ width: 300px;
+ color: blue;
+ margin: 100px 0 100px 0;
+}
+p{
+  color: brown;
+  font-weight: bold;
+}
+h1{
+  color: black;
+  font-family: cursive;
+}
+h5{
+  color: brown;
+}
